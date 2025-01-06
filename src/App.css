@@ -1,0 +1,7 @@
+.d-block{
+  display: flex;
+}
+.btn{
+display:flex;
+align-items:space-around;
+}
